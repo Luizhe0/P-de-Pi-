@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 246, 255);
+}
+
+header{
+    background-color: rgb(255, 236, 255);
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black;
+}
+
+.nav-link{
+    color: white;
+}
+
+h1{
+    font-size: 63px;
+    padding: 100px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+.card{
+    width: 350px;
+    background-color: rgb(245, 245, 245);
+    margin: 65px;
+
+}
+
+.checkout{
+    background-color: rgb(255, 246, 255);
+
+}
+
